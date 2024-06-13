@@ -34,8 +34,6 @@ This project aims to perform time series anomaly detection using multivariate ti
 - Adjust the `chunk_size` and `sample_size` variables in the script according to your system's memory constraints and the size of the dataset.
 - Ensure that the dataset files are in CSV format and contain the required columns.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
