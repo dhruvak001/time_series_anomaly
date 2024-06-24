@@ -10,7 +10,7 @@ This project aims to perform time series anomaly detection using multivariate ti
 - `README.md`: Documentation file providing an overview of the project.
 
 ## Dependencies
-- Python3
+- python3
 - pandas
 - matplotlib
 - seaborn
