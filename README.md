@@ -2,7 +2,7 @@
 # Time Series Anomaly Detection
 
 ## Overview
-This project aims to perform time series anomaly detection using multivariate time series data and labeled anomaly regions. It involves reading test and label files, drawing time series plots with anomaly regions, performing exploratory data analysis (EDA), and identifying the variables that are the root cause of anomalies...
+This project aims to perform time series anomaly detection using multivariate time series data and labeled anomaly regions. It involves reading test and label files, drawing time series plots with anomaly regions, performing exploratory data analysis (EDA), and identifying the variables that are the root cause of anomalies....
 
 ## Project Structure
 - `files/`: Contains the dataset files.
